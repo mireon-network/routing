@@ -10,8 +10,8 @@
   "DomesticDNSType": "DoH",
   "DomesticDNSDomain": "https://77.88.8.8/dns-query",
   "DomesticDNSIP": "77.88.8.8",
-  "Geoipurl": "https://cdn.jsdelivr.net/gh/mireon-network/mireon-geoip/release/geoip.dat",
-  "Geositeurl": "https://cdn.jsdelivr.net/gh/mireon-network/mireon-geosite/release/geosite.dat",
+  "Geoipurl": "https://cdn.jsdelivr.net/gh/mireon-network/geoip@main/release/geoip.dat",
+  "Geositeurl": "https://cdn.jsdelivr.net/gh/mireon-network/geosite@main/release/geosite.dat",
   "LastUpdated": "1778653937",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
